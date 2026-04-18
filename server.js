@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get('/', (req, res) => {
   res.send(`
-    <h1>Hello from Darey.io DevOps Demo! hi</h1>
+    <h1>Hello from Darey.io DevOps Demo!</h1>
     
     `);
 });
